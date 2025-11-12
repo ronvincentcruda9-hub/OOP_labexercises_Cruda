@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".vscode"
+		},
+		{
+			"path": "bin"
+		},
+		{
+			"path": "lib"
+		},
+		{
+			"path": "src"
+		}
+	]
+}
